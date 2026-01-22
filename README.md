@@ -30,7 +30,4 @@ Logic-Lab/
 ├── .classpath               # Eclipse configuration
 ├── .project                 # Eclipse configuration
 └── README.md                # Project documentation
-
-sages
-
-Consistency – Daily structured practice
+```
