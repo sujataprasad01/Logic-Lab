@@ -38,67 +38,68 @@ Logic-Lab/
 - 📦 [Compiled Files](https://github.com/sujataprasad01/Logic-Lab/tree/main/bin)  
 
 ### 📆 Day-wise Practice
-- 📌 [Day 1 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day1)  
-- 📌 [Day 2 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day2)  
-- 📌 [Day 3 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day3)  
-- 📌 [Day 4 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day4)  
+- 📌 [Day 1 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/Day1)  
+- 📌 [Day 2 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/Day2)  
+- 📌 [Day 3 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/Day3)  
+- 📌 [Day 4 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/Day4)  
 
 ---
+
 ## 📆 Day-wise Practice Programs
 
 ### 🟦 Day 1
-- 🔹 [FrequencyOfLetter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/FrequencyOfLetter.java)  
-- 🔹 [PrimeNo.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/PrimeNo.java)  
-- 🔹 [ReverseStringNonLetter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/ReverseStringNonLetter.java)  
-- 🔹 [ReverseString.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/ReverseString.java)  
-- 🔹 [Smallest.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/Smallest.java)  
+- 🔹 [FrequencyOfLetter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day1/FrequencyOfLetter.java)  
+- 🔹 [PrimeNo.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day1/PrimeNo.java)  
+- 🔹 [ReverseStringNonLetter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day1/ReverseStringNonLetter.java)  
+- 🔹 [ReverseString.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day1/ReverseString.java)  
+- 🔹 [Smallest.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day1/Smallest.java)  
 
 ---
 
 ### 🟦 Day 2
-- 🔹 [ATMsimulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/ATMsimulation.java)  
-- 🔹 [FactorialUsingRecursion.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/FactorialUsingRecursion.java)  
-- 🔹 [FrogOfWar.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/FrogOfWar.java)  
-- 🔹 [GradeCalculator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/GradeCalculator.java)  
-- 🔹 [Palindrome.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/Palindrome.java)  
-- 🔹 [Pattern.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/Pattern.java)  
-- 🔹 [ReverseWords.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/ReverseWords.java)  
-- 🔹 [SecondLargest.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/SecondLargest.java)  
-- 🔹 [SumOfEvenOdd.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/SumOfEvenOdd.java)  
-- 🔹 [TemperatureConverter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/TemperatureConverter.java)  
+- 🔹 [ATMsimulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/ATMsimulation.java)  
+- 🔹 [FactorialUsingRecursion.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/FactorialUsingRecursion.java)  
+- 🔹 [FrogOfWar.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/FrogOfWar.java)  
+- 🔹 [GradeCalculator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/GradeCalculator.java)  
+- 🔹 [Palindrome.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/Palindrome.java)  
+- 🔹 [Pattern.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/Pattern.java)  
+- 🔹 [ReverseWords.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/ReverseWords.java)  
+- 🔹 [SecondLargest.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/SecondLargest.java)  
+- 🔹 [SumOfEvenOdd.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/SumOfEvenOdd.java)  
+- 🔹 [TemperatureConverter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day2/TemperatureConverter.java)  
 
 ---
 
 ### 🟦 Day 3
-- 🔹 [ATMsimulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/ATMsimulation.java)  
-- 🔹 [Calendar.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/Calendar.java)  
-- 🔹 [CompressedFile.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/CompressedFile.java)  
-- 🔹 [ExpressionEvaluator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/ExpressionEvaluator.java)  
-- 🔹 [GradeBook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/GradeBook.java)  
-- 🔹 [MatrixOperations.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/MatrixOperations.java)  
-- 🔹 [NumberAggregator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/NumberAggregator.java)  
-- 🔹 [PasswordValidator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/PasswordValidator.java)  
-- 🔹 [Phonebook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/Phonebook.java)  
-- 🔹 [StringAnalysis.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/StringAnalysis.java)  
+- 🔹 [ATMsimulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/ATMsimulation.java)  
+- 🔹 [Calendar.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/Calendar.java)  
+- 🔹 [CompressedFile.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/CompressedFile.java)  
+- 🔹 [ExpressionEvaluator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/ExpressionEvaluator.java)  
+- 🔹 [GradeBook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/GradeBook.java)  
+- 🔹 [MatrixOperations.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/MatrixOperations.java)  
+- 🔹 [NumberAggregator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/NumberAggregator.java)  
+- 🔹 [PasswordValidator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/PasswordValidator.java)  
+- 🔹 [Phonebook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/Phonebook.java)  
+- 🔹 [StringAnalysis.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day3/StringAnalysis.java)  
 
 ---
 
 ### 🟦 Day 4
-- 🔹 [AccessNumber.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/AccessNumber.java)  
-- 🔹 [AccountNumberClass.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/AccountNumberClass.java)  
-- 🔹 [BankAccount.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/BankAccount.java)  
-- 🔹 [Config.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Config.java)  
-- 🔹 [Counter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Counter.java)  
-- 🔹 [EmployeeWithEncapsulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/EmployeeWithEncapsulation.java)  
-- 🔹 [IDGenerator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/IDGenerator.java)  
-- 🔹 [LibraryBook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/LibraryBook.java)  
-- 🔹 [MathUtils.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/MathUtils.java)  
-- 🔹 [RectangleWithEncapsulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/RectangleWithEncapsulation.java)  
-- 🔹 [SingletonLogger.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/SingletonLogger.java)  
-- 🔹 [Stopwatch.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Stopwatch.java)  
-- 🔹 [Student.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Student.java)  
-- 🔹 [Temperature.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Temperature.java)  
-- 🔹 [Vector2D.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Vector2D.java)  
+- 🔹 [AccessNumber.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/AccessNumber.java)  
+- 🔹 [AccountNumberClass.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/AccountNumberClass.java)  
+- 🔹 [BankAccount.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/BankAccount.java)  
+- 🔹 [Config.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/Config.java)  
+- 🔹 [Counter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/Counter.java)  
+- 🔹 [EmployeeWithEncapsulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/EmployeeWithEncapsulation.java)  
+- 🔹 [IDGenerator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/IDGenerator.java)  
+- 🔹 [LibraryBook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/LibraryBook.java)  
+- 🔹 [MathUtils.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/MathUtils.java)  
+- 🔹 [RectangleWithEncapsulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/RectangleWithEncapsulation.java)  
+- 🔹 [SingletonLogger.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/SingletonLogger.java)  
+- 🔹 [Stopwatch.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/Stopwatch.java)  
+- 🔹 [Student.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/Student.java)  
+- 🔹 [Temperature.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/Temperature.java)  
+- 🔹 [Vector2D.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/Day4/Vector2D.java)  
 
 ## 🧩 Topics Covered
 
