@@ -1,101 +1,100 @@
-Logic-Lab 🧠☕
+# Logic-Lab 🧠☕
 
-A Java practice repository documenting my daily logic-building and Core Java learning journey.
-This project contains structured solutions to programming problems solved day-wise as part of my Logic Lab training.
+A Java practice repository documenting my daily **logic-building** and **Core Java learning** journey.  
+This project contains structured solutions to programming problems solved **day-wise** as part of my Logic Lab training.
 
-📌 Project Goals
+---
 
-This repository focuses on:
+## 📌 Project Goals
 
-Strengthening Core Java fundamentals
+- Strengthening **Core Java fundamentals**  
+- Improving **logical thinking & problem-solving**  
+- Practicing **clean and readable code**  
+- Tracking **daily learning progress**  
+- Building consistency through hands-on coding  
 
-Improving logical thinking & problem-solving
+---
 
-Practicing clean and readable code
+## 📂 Repository Structure
 
-Tracking daily learning progress
-
-Building consistency through hands-on coding
-
-📂 Repository Structure
 Logic-Lab/
 │
-├── bin/                     # Compiled .class files
-├── src/                     # All Java source code
-│   ├── day1/                # Day 1 solved programs
-│   ├── day2/                # Day 2 solved programs
-│   ├── day3/                # Day 3 solved programs
-│   ├── day4/                # Day 4 solved programs
-│   └── ...                  # Upcoming practice days
+├── bin/ # Compiled .class files
+├── src/ # All Java source code
+│ ├── day1/ # Day 1 solved programs
+│ ├── day2/ # Day 2 solved programs
+│ ├── day3/ # Day 3 solved programs
+│ ├── day4/ # Day 4 solved programs
+│ └── ... # Upcoming practice days
 │
-├── .classpath               # Eclipse configuration
-├── .project                 # Eclipse configuration
-└── README.md                # Project documentation
+├── .classpath # Eclipse configuration
+├── .project # Eclipse configuration
+└── README.md # Project documentation
 
-🧩 Topics Covered
+yaml
+Copy code
+
+---
+
+## 🧩 Topics Covered
 
 Programs in this repository include practice on:
 
-Java basics & input/output
+- Java basics & input/output  
+- Conditional statements (if–else, switch)  
+- Loops (for, while, do-while)  
+- Number-based logic (prime, palindrome, factorial, etc.)  
+- Pattern printing  
+- Arrays & basic data handling  
+- Methods & modular programming  
+- Introductory OOP concepts *(upcoming)*  
 
-Conditional statements (if–else, switch)
+---
 
-Loops (for, while, do-while)
+## 📅 Training Progress (Day-wise)
 
-Number-based logic (prime, palindrome, factorial, etc.)
+| Day   | Date  | Focus Area                                   | Status       |
+|-------|--------|---------------------------------------------|--------------|
+| Day 1 | 18 Dec | Core Java Basics, Strings, Arrays           | ✅ Completed |
+| Day 2 | 19 Dec | Control Flow, Patterns, Recursion           | ✅ Completed |
+| Day 3 | 20 Dec | Advanced Logic, Methods                     | ✅ Completed |
+| Day 4 | 21 Dec | OOP Concepts, Design Patterns               | ✅ Completed |
+| Day 5 | —      | OOP Basics *(Planned)*                      | ⏳ Pending   |
 
-Pattern printing
+---
 
-Arrays & basic data handling
+## 🔗 Quick Links
 
-Methods & modular programming
+### 📁 Main Folders
+- 🔹 **Source Code** → https://github.com/sujataprasad01/Logic-Lab/tree/main/src  
+- 🔹 **Compiled Files** → https://github.com/sujataprasad01/Logic-Lab/tree/main/bin  
 
-Introductory OOP concepts (upcoming)
+### 📆 Day-wise Practice
+- 📌 **Day 1 Programs** → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day1  
+- 📌 **Day 2 Programs** → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day2  
+- 📌 **Day 3 Programs** → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day3  
+- 📌 **Day 4 Programs** → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day4  
 
-📅 Training Progress (Day-wise)
-Day	Focus Area	Status
-Day 1	Java Basics, Numbers, Conditions	✅ Completed
-Day 2	Loops, Patterns, Arrays	✅ Completed
-Day 3	Methods, Logical Programs	✅ Completed
-Day 4	Advanced Logic Practice	✅ Completed
-Day 5	OOP Basics (Planned)	⏳ Pending
-🔗 Quick Links
-📁 Main Folders
+*(More days will be added as learning progresses.)*
 
-🔹 Source Code → https://github.com/sujataprasad01/Logic-Lab/tree/main/src
+---
 
-🔹 Compiled Files → https://github.com/sujataprasad01/Logic-Lab/tree/main/bin
+## 🚀 How to Run the Code
 
-📆 Day-wise Practice
-
-📌 Day 1 Programs → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day1
-
-📌 Day 2 Programs → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day2
-
-📌 Day 3 Programs → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day3
-
-📌 Day 4 Programs → https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day4
-
-(More days will be added as learning progresses.)
-
-🚀 How to Run the Code
-
-Clone the repository
-
-git clone https://github.com/sujataprasad01/Logic-Lab.git
-
-
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/sujataprasad01/Logic-Lab.git
 Open the project in Eclipse / IntelliJ / VS Code
 
 Navigate to the src folder
 
 Compile & run any Java file
 
+bash
+Copy code
 javac FileName.java
 java FileName
-
 🎯 Learnings & Best Practices
-
 Logical Breakdown – Solving problems step by step
 
 Code Readability – Meaningful variable & method names
