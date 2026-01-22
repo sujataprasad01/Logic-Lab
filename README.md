@@ -31,35 +31,6 @@ Logic-Lab/
 ├── .project                 # Eclipse configuration
 └── README.md                # Project documentation
 ```
-
----
-
-## 🧩 Topics Covered
-
-Programs in this repository include practice on:
-
-- Java basics & input/output  
-- Conditional statements (if–else, switch)  
-- Loops (for, while, do-while)  
-- Number-based logic (prime, palindrome, factorial, etc.)  
-- Pattern printing  
-- Arrays & basic data handling  
-- Methods & modular programming  
-- Introductory OOP concepts *(upcoming)*  
-
----
-
-## 📅 Training Progress (Day-wise)
-
-| Day   | Date  | Focus Area                                   | Status       |
-|-------|--------|---------------------------------------------|--------------|
-| Day 1 | 18 Dec | Core Java Basics, Strings, Arrays           | ✅ Completed |
-| Day 2 | 19 Dec | Control Flow, Patterns, Recursion           | ✅ Completed |
-| Day 3 | 20 Dec | Advanced Logic, Methods                     | ✅ Completed |
-| Day 4 | 21 Dec | OOP Concepts, Design Patterns               | ✅ Completed |
-
----
-
 ## 🔗 Quick Links
 
 ### 📁 Main Folders
@@ -71,6 +42,111 @@ Programs in this repository include practice on:
 - 📌 [Day 2 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day2)  
 - 📌 [Day 3 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day3)  
 - 📌 [Day 4 Programs](https://github.com/sujataprasad01/Logic-Lab/tree/main/src/day4)  
+
+---
+## 📆 Day-wise Practice Programs
+
+### 🟦 Day 1
+- 🔹 [FrequencyOfLetter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/FrequencyOfLetter.java)  
+- 🔹 [PrimeNo.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/PrimeNo.java)  
+- 🔹 [ReverseStringNonLetter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/ReverseStringNonLetter.java)  
+- 🔹 [ReverseString.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/ReverseString.java)  
+- 🔹 [Smallest.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day1/Smallest.java)  
+
+---
+
+### 🟦 Day 2
+- 🔹 [ATMsimulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/ATMsimulation.java)  
+- 🔹 [FactorialUsingRecursion.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/FactorialUsingRecursion.java)  
+- 🔹 [FrogOfWar.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/FrogOfWar.java)  
+- 🔹 [GradeCalculator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/GradeCalculator.java)  
+- 🔹 [Palindrome.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/Palindrome.java)  
+- 🔹 [Pattern.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/Pattern.java)  
+- 🔹 [ReverseWords.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/ReverseWords.java)  
+- 🔹 [SecondLargest.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/SecondLargest.java)  
+- 🔹 [SumOfEvenOdd.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/SumOfEvenOdd.java)  
+- 🔹 [TemperatureConverter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day2/TemperatureConverter.java)  
+
+---
+
+### 🟦 Day 3
+- 🔹 [ATMsimulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/ATMsimulation.java)  
+- 🔹 [Calendar.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/Calendar.java)  
+- 🔹 [CompressedFile.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/CompressedFile.java)  
+- 🔹 [ExpressionEvaluator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/ExpressionEvaluator.java)  
+- 🔹 [GradeBook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/GradeBook.java)  
+- 🔹 [MatrixOperations.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/MatrixOperations.java)  
+- 🔹 [NumberAggregator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/NumberAggregator.java)  
+- 🔹 [PasswordValidator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/PasswordValidator.java)  
+- 🔹 [Phonebook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/Phonebook.java)  
+- 🔹 [StringAnalysis.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day3/StringAnalysis.java)  
+
+---
+
+### 🟦 Day 4
+- 🔹 [AccessNumber.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/AccessNumber.java)  
+- 🔹 [AccountNumberClass.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/AccountNumberClass.java)  
+- 🔹 [BankAccount.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/BankAccount.java)  
+- 🔹 [Config.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Config.java)  
+- 🔹 [Counter.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Counter.java)  
+- 🔹 [EmployeeWithEncapsulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/EmployeeWithEncapsulation.java)  
+- 🔹 [IDGenerator.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/IDGenerator.java)  
+- 🔹 [LibraryBook.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/LibraryBook.java)  
+- 🔹 [MathUtils.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/MathUtils.java)  
+- 🔹 [RectangleWithEncapsulation.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/RectangleWithEncapsulation.java)  
+- 🔹 [SingletonLogger.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/SingletonLogger.java)  
+- 🔹 [Stopwatch.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Stopwatch.java)  
+- 🔹 [Student.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Student.java)  
+- 🔹 [Temperature.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Temperature.java)  
+- 🔹 [Vector2D.java](https://github.com/sujataprasad01/Logic-Lab/blob/main/src/day4/Vector2D.java)  
+
+## 🧩 Topics Covered
+
+This repository covers hands-on practice in **Core Java and problem-solving**:
+
+### 🔹 Java Fundamentals
+- Java basics: variables, data types, operators
+- Input/output using Scanner and Console
+- Control flow: if–else, switch statements
+- Loops: for, while, do-while
+
+### 🔹 Number & Logic Problems
+- Prime numbers, factorial, palindrome, Armstrong numbers
+- Sum of digits, even/odd calculations, aggregation problems
+
+### 🔹 Strings & Patterns
+- String manipulation: reversing, checking, analysis
+- Pattern printing: stars, numbers, and custom patterns
+
+### 🔹 Arrays & Collections
+- Basic arrays: traversal, searching, sorting
+- Multi-dimensional arrays
+- Introduction to collections (ArrayList, HashMap, etc.) *(upcoming)*
+
+### 🔹 Methods & Modular Programming
+- Writing reusable methods
+- Passing parameters, returning values
+- Recursion-based problems
+
+### 🔹 Object-Oriented Concepts (Upcoming)
+- Classes & Objects
+- Encapsulation, Static & Final
+- Singleton pattern
+- Mini-project implementations (ATM, Bank, Library, etc.)
+
+
+---
+
+## 📅 Training Progress (Day-wise)
+
+| Day   | Date  | Focus Area                                   | Status       |
+|-------|--------|---------------------------------------------|--------------|
+| Day 1 | 23 Dec | Core Java Basics, Strings, Arrays           | ✅ Completed |
+| Day 2 | 24 Dec | Control Flow, Patterns, Recursion           | ✅ Completed |
+| Day 3 | 25 Dec | Advanced Logic, Methods                     | ✅ Completed |
+| Day 4 | 26 Dec | OOP Concepts, Design Patterns               | ✅ Completed |
+
+---
 
 ---
 
